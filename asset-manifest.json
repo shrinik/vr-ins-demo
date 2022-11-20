@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vr-ins-demo/static/css/main.e6c13ad2.css",
+    "main.js": "/vr-ins-demo/static/js/main.25d5c488.js",
+    "static/js/787.1bfd6efb.chunk.js": "/vr-ins-demo/static/js/787.1bfd6efb.chunk.js",
+    "index.html": "/vr-ins-demo/index.html",
+    "main.e6c13ad2.css.map": "/vr-ins-demo/static/css/main.e6c13ad2.css.map",
+    "main.25d5c488.js.map": "/vr-ins-demo/static/js/main.25d5c488.js.map",
+    "787.1bfd6efb.chunk.js.map": "/vr-ins-demo/static/js/787.1bfd6efb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.25d5c488.js"
+  ]
+}
